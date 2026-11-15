@@ -1,12 +1,4 @@
-# Shubh Om Yadav
-
-B.Tech Computer Science student at Bennett University, Delhi NCR, India. Focused on cloud
-infrastructure, Linux systems, and self-hosted software.
-
-- Building **TerraMind**, an open-source Code-OSS fork that turns Terraform into an AI-native IDE with a bundled local model.
-- Co-author, *“Data Availability and Uptime in Cloud Storage: Redundancy Models and Storage Techniques”*, ICTIS 2026 (Bangkok, Thailand).
-
----
+# Shubh
 
 ## Tech
 
