@@ -56,6 +56,6 @@
 ## GitHub
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-3011&theme=github" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubh-3011&theme=github" alt="Top languages" />
+  <img height="150" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="150" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
